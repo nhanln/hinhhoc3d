@@ -1,0 +1,6 @@
+{
+  "name": "Trợ Lý AI Hình Học Không Gian 3D",
+  "description": "Hệ thống AI phân tích đề bài hình học không gian THPT từ hình ảnh, giọng nói hoặc văn bản và tự động dựng mô hình 3D tương tác chuẩn SGK GDPT 2018.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
